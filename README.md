@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### MyHome
 
-Goto [Home](https://givorsky.github.io/vigorsky.github.io/master.home/index.html/)
+Goto [Home](https://givorsky.github.io/vigorsky.github.io/master/home/index.html/)
